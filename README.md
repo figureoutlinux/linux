@@ -1,5 +1,3 @@
-<img title="Subscribe" src="https://figureoutlinux.github.io/linux/figureoutlinuxmint-contorno-azul.png" /></a> 
-<br />
 ### 🖐️ Olá! Eu sou o Junior, usuário de Linux! Redes sociais 🇧🇷
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/FigureoutLinuxOJuninhodoLinux)
