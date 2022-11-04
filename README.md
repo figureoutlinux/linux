@@ -1,4 +1,4 @@
-<img title="Subscribe" src="https://figureoutlinux.github.io/linux/header.png" /></a> 
+<img title="Subscribe" src="https://figureoutlinux.github.io/linux/figureoutlinuxmint-contorno-azul.png" /></a> 
 <br />
 ### 🖐️ Olá! Eu sou o Junior, usuário de Linux! Redes sociais 🇧🇷
 
